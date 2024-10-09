@@ -1,32 +1,37 @@
-# Central Limit Theorem
+## Central Limit Theorem Demonstration
 
-Our goal here is to demonstrate the Central Limit Theorem. To do this, we simulate random samples from an exponential distribution, calculate their means, and visualize the distribution of these means. According to the Central Limit Theorem, regardless of the type of the original distribution, when the sample size is sufficiently large, the distribution of sample means approaches a normal distribution, even if the initial distribution is not normal.
+**Objective**
 
-1. **Probability Density Function (PDF):**
-   
-  $$f(x; \theta)= \frac{1}{\theta} e^{-\frac{x}{\theta}} \quad \text{for} \quad x \geq 0$$
+This demonstration aims to illustrate the Central Limit Theorem (CLT) by simulating random samples from an exponential distribution, calculating their means, and visualizing the resulting distribution. The CLT asserts that, regardless of the underlying distribution, the distribution of sample means approaches a normal distribution as the sample size increases.
 
-3. **Mean:**
-   - The mean of the exponential distribution is expressed as:
-   - 
-  $$\mu = \frac{1}{\lambda}$$
+**Exponential Distribution**
 
-4. **Standard Deviation:**
-   - The standard deviation of the exponential distribution is also given by:
+**Probability Density Function (PDF):**
+
+$$f(x; \theta)= \frac{1}{\theta} e^{-\frac{x}{\theta}} \quad \text{for} \quad x \geq 0$$
+
+**Mean:**
+
+$$\mu = \frac{1}{\lambda}$$
+
+**Standard Deviation:**
 
 $$\sigma=\frac{1}{\lambda}$$
 
+**Features**
 
-## Features
 - Generates random samples from an exponential distribution.
 - Plots the distribution of sample means.
 - Fits a normal distribution to the sample means.
 
-## Requirements
+**Requirements**
+
 - Python 3.x
 - Libraries: `numpy`, `matplotlib`, `scipy`
 
-## Installation
-To install the required dependencies, run:
+**Installation**
+
+To install the necessary dependencies, execute the following command:
+
 ```bash
 pip install -r requirements.txt
