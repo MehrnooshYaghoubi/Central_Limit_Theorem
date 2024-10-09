@@ -8,9 +8,10 @@ Our goal here is to demonstrate the Central Limit Theorem. To do this, we simula
 \begin{document}
 
 1. **Probability Density Function (PDF):**
-   \[
+   $$
    f(x; \theta) = \frac{1}{\theta} e^{-\frac{x}{\theta}} \quad \text{for} \quad x \geq 0
-   \]
+   $$
+
 
 2. **Mean:**
    - The mean of the exponential distribution is expressed as:
