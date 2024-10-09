@@ -8,8 +8,8 @@ Our goal here is to demonstrate the Central Limit Theorem. To do this, we simula
 
 3. **Mean:**
    - The mean of the exponential distribution is expressed as:
-  $$\text{Mean} = \mu =
-  \frac{1}{\lambda}$$
+   - 
+  $$\mu = \frac{1}{\lambda}$$
 
 4. **Standard Deviation:**
    - The standard deviation of the exponential distribution is also given by:
