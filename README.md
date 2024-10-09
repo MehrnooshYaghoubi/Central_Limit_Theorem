@@ -13,11 +13,11 @@ The project provides a step-by-step exploration of how the CLT works in practice
 
 ### **Central Limit Theorem Summary**
 
-The CLT states that, for a large enough sample size \(n\), the sampling distribution of the sample mean will tend to be normally distributed:
+The CLT states that, for a large enough sample size $$\(n\)$$, the sampling distribution of the sample mean will tend to be normally distributed:
 
 - As the sample size increases, the sample means follow a normal distribution, even if the original data distribution is non-normal.
 - The mean of the sample means will equal the population mean.
-- The standard deviation of the sample means will shrink by a factor of \(\frac{\sigma}{\sqrt{n}}\), where \(\sigma\) is the population standard deviation.
+- The standard deviation of the sample means will shrink by a factor of $$\(\frac{\sigma}{\sqrt{n}}\)$$, where $$\(\sigma\)$$ is the population standard deviation.
 
 ---
 
