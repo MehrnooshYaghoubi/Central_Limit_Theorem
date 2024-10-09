@@ -4,7 +4,7 @@ Our goal here is to demonstrate the Central Limit Theorem. To do this, we simula
 
 1. **Probability Density Function (PDF):**
    
-  $$f(x; \theta) 0 \leq \lambda e^{\lambda x-}\space\space\text{for}\space\space x=f(x;\lambda)$$
+  $$f(x; \theta)= \frac{1}{\theta} e^{-\frac{x}{\theta}} \quad \text{for} \quad x \geq 0$$
 
 3. **Mean:**
    - The mean of the exponential distribution is expressed as:
