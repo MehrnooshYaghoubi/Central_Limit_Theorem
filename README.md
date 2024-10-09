@@ -4,22 +4,22 @@ Our goal here is to demonstrate the Central Limit Theorem. To do this, we simula
 
 1. **Probability Density Function (PDF):**
    \[
-   f(x; \theta) = \frac{1}{\theta} e^{-\frac{x}{\theta}} \quad \text{for} \quad x \geq 0
+   &&f(x; \theta) = \frac{1}{\theta} e^{-\frac{x}{\theta}} \quad \text{for} \quad x \geq 0&&
    \]
 
 2. **Mean:**
    - The mean of the exponential distribution is expressed as:
    \[
-   \text{Mean} = \mu = \theta
+   &&\text{Mean} = \mu = \theta&&
    \]
 
 3. **Standard Deviation:**
    - The standard deviation of the exponential distribution is also given by:
    \[
-   \sigma = \theta
+   &&\sigma = \theta&&
    \]
 
-The exponential distribution has a parameter called \( \theta \) (scale), which represents the mean time between events. In this context, \( \theta \) is the inverse of the rate \( \lambda \), where \( \lambda = \frac{1}{\theta} \).
+The exponential distribution has a parameter called &&\( \theta \)&& (scale), which represents the mean time between events. In this context, &&\( \theta \)&& is the inverse of the rate &&\( \lambda \)&&, where &&\( \lambda = \frac{1}{\theta} \)&&.
 
 
 ## Features
