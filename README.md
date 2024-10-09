@@ -6,7 +6,6 @@ This demonstration aims to illustrate the Central Limit Theorem (CLT) by simulat
 
 
 
-
 ### **Exponential Distribution**
 
 **Probability Density Function (PDF):**
