@@ -11,11 +11,11 @@ This demonstration aims to illustrate the Central Limit Theorem (CLT) by simulat
 
 $$f(x; \theta)= \frac{1}{\theta} e^{-\frac{x}{\theta}} \quad \text{for} \quad x \geq 0$$
 
-**Mean:**  
-$$\mu = \theta$$
+**Mean:**
+  $$\mu = \theta$$
 
 **Standard Deviation:**
-$$\sigma = \theta$$
+  $$\sigma = \theta$$
 
 **Features**
 
